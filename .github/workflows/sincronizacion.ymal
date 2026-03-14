@@ -1,4 +1,4 @@
-name: Reutilizando Workflow
+name: Reutilizando Workflows
 
 on:
   push:
