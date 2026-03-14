@@ -1,0 +1,9 @@
+name: Reutilizando Workflow
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  mi-job:
+    uses: sebastian1219/repo-cloud-II/.github/workflows/holamundo.yml@main
